@@ -1,0 +1,28 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Handy",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bluebird": "^3.5.1",
+    "cryptocompare": "^0.2.0",
+    "dotenv": "^4.0.0",
+    "firebase": "^4.6.2",
+    "firebase-admin": "^5.5.1",
+    "ml-logistic-regression": "^1.0.2",
+    "ml-matrix": "^5.0.1",
+    "ml-regression": "^4.4.2",
+    "mongoose": "^4.11.9",
+    "node-fetch": "^1.7.3",
+    "node.bittrex.api": "^0.5.1",
+    "technicalindicators": "^1.0.20",
+    "textbelt": "0.0.3",
+    "tulind": "^0.8.7"
+  }
+}
